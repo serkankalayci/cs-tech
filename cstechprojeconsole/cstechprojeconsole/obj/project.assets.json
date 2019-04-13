@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KALAYCI\\Desktop\\cs-tech_projesi\\cstechprojeconsole\\cstechprojeconsole\\cstechprojeconsole.csproj",
+      "projectUniqueName": "C:\\Users\\KALAYCI\\Desktop\\cs-tech_projesi_serkan_kalaycı\\cstechprojeconsole\\cstechprojeconsole\\cstechprojeconsole.csproj",
       "projectName": "cstechprojeconsole",
-      "projectPath": "C:\\Users\\KALAYCI\\Desktop\\cs-tech_projesi\\cstechprojeconsole\\cstechprojeconsole\\cstechprojeconsole.csproj",
+      "projectPath": "C:\\Users\\KALAYCI\\Desktop\\cs-tech_projesi_serkan_kalaycı\\cstechprojeconsole\\cstechprojeconsole\\cstechprojeconsole.csproj",
       "packagesPath": "C:\\Users\\KALAYCI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KALAYCI\\Desktop\\cs-tech_projesi\\cstechprojeconsole\\cstechprojeconsole\\obj\\",
+      "outputPath": "C:\\Users\\KALAYCI\\Desktop\\cs-tech_projesi_serkan_kalaycı\\cstechprojeconsole\\cstechprojeconsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
